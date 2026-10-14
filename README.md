@@ -13,7 +13,7 @@
 ### Блок-схема:
 ![diagram](Lab_05_13.png)
 ## 2. Реализация программы
-```
+```c
 #include <stdio.h>
 #include <math.h>
 
